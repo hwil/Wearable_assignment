@@ -1,5 +1,5 @@
 # Wearable_assignment
-The code in this repository performs some merging, sorting and calculation tasks on accelerometer data from wearable technology.  
+The code in the file "run.analysis.R" in this repository performs some merging, sorting and calculation tasks on accelerometer data from wearable technology.  
 Specifically:  
 1) Merges a "training" and "test" set to create one data set  
 2) Extracts only the measurements on the mean and standard deviation for each measurement,  
